@@ -11,6 +11,12 @@
       "title": "Task 3",
       "done": true,
       "date": "2019-01-01"
+    },
+    {
+      "id": "3",
+      "title": "This is a new task",
+      "done": false,
+      "date": ""
     }
   ]
 }
